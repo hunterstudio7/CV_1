@@ -11,16 +11,16 @@ This is main menu
 
 The cube appears every second, it shows the places where you can place the cubes. If you tap on the screen the cube will appear in the same place. The main thing is to have time to click on the screen so that your tower does not lose balance, otherwise the game will be over.
 
-![](game2.jpg)
+![](screenshots/game2.jpg)
 
 ## End of the game
 
 When you lose balance or the next cubes cannot be placed, this means that the game is over and the camera moves away along with the shaking to make the effect of a large object falling. The strength of the shaking increases with the height of the tower.
 
-![](game3.jpg)
+![](screenshots/game3.jpg)
 
 ## The Shop
 You can buy different colors of cubes in the store. The colors open automatically when you hit the required high score.
 
-![](game4.1.jpg)
+![](screenshots/game4.1.jpg)
 
