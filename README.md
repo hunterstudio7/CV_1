@@ -2,9 +2,9 @@
 > This game was created on Unity. The gameplay is about balancing the cubes. You can build various towers, but you need to be careful and think everything in advance so that your structure does not collapse into small cubes. The game ends when you out of balance or it is impossible to build the next cube. The main task is to gain more and more points each time, but nobody canceled your creativity either! Also, an additional interest is to gain more and more records in order to discover new colors of cubes, which can be obtained in the record store.
 
 
-
 This is main menu
-![alt text](screenshots/game1.jpg "Описание будет тут")
+
+![alt text](screenshots/game1.jpg)
 
 ## Gameplay
 
