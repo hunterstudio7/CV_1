@@ -4,8 +4,7 @@
 
 
 This is main menu
-
-![](game1.jpg)
+![alt text](screenshots/game1.png "Описание будет тут")
 
 ## Gameplay
 
